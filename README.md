@@ -18,11 +18,11 @@ Programas que se utilizan en las oficinas.
 5. [Herramientas de Google](https://www.google.com/intl/es-419/chrome/browser-tools/)
 
 |Aplicaciones|Visto|
-|Google Docs|![tick]( https://github.com/PhilipR7/2425-SMX2-UF1-A2-Evaluacion-Inicial-Documentaci-n-con-Markdown-Rendon-Chamba-Philip/blob/main/tick.jpg)
-|Google Slides|![tick]( https://github.com/PhilipR7/2425-SMX2-UF1-A2-Evaluacion-Inicial-Documentaci-n-con-Markdown-Rendon-Chamba-Philip/blob/main/tick.jpg
-|Google Sheets|![tick]( https://github.com/PhilipR7/2425-SMX2-UF1-A2-Evaluacion-Inicial-Documentaci-n-con-Markdown-Rendon-Chamba-Philip/blob/main/tick.jpg
-|Google Calendar|![tick]( https://github.com/PhilipR7/2425-SMX2-UF1-A2-Evaluacion-Inicial-Documentaci-n-con-Markdown-Rendon-Chamba-Philip/blob/main/calendario.jpg)
-|Google Meet|![tick]( https://github.com/PhilipR7/2425-SMX2-UF1-A2-Evaluacion-Inicial-Documentaci-n-con-Markdown-Rendon-Chamba-Philip/blob/main/portatil.jpg)
+|Google Docs|![tick]( https://github.com/PhilipR7/2425-SMX2-UF1-A2-Evaluacion-Inicial-Documentaci-n-con-Markdown-Rendon-Chamba-Philip/blob/main/tick.jpg)|
+|Google Slides|![tick]( https://github.com/PhilipR7/2425-SMX2-UF1-A2-Evaluacion-Inicial-Documentaci-n-con-Markdown-Rendon-Chamba-Philip/blob/main/tick.jpg)|
+|Google Sheets|![tick]( https://github.com/PhilipR7/2425-SMX2-UF1-A2-Evaluacion-Inicial-Documentaci-n-con-Markdown-Rendon-Chamba-Philip/blob/main/tick.jpg)|
+|Google Calendar|![tick]( https://github.com/PhilipR7/2425-SMX2-UF1-A2-Evaluacion-Inicial-Documentaci-n-con-Markdown-Rendon-Chamba-Philip/blob/main/calendario.jpg)|
+|Google Meet|![tick]( https://github.com/PhilipR7/2425-SMX2-UF1-A2-Evaluacion-Inicial-Documentaci-n-con-Markdown-Rendon-Chamba-Philip/blob/main/portatil.jpg)|
 |...|...|
 
 6. ¿Qué es HTML?
