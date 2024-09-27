@@ -30,7 +30,7 @@ Programas que se utilizan en las oficinas.
 
 Un Lenguaje de Marcas
 
-
+``# <!DOCTYPE html>``
 
 7. ¿Qué es CSS?
 
